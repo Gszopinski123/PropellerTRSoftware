@@ -1,0 +1,6 @@
+{
+    "wait": 10000,
+    "torque_slope":12341,
+    "thrust_offset" : 1231312,
+    "thrust_slope" : 123131
+}

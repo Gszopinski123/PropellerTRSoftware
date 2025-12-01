@@ -1,0 +1,10 @@
+{
+    "thrust_slope": -9888.157400189491,
+    "thrust_offset": -0.0003393853668678072,
+    "torque_slope": -233.46872326763716,
+    "torque_offset": -6.2558369301242235e-06,
+    "esc_current_slope": -16.00818785439589,
+    "power_current_slope": 25.512231044530093,
+    "esc_current_offset": -0.13195391372006238,
+    "power_current_offset": -0.12652018020204048
+}

@@ -1,0 +1,10 @@
+{
+    "wait": 1,
+    "torque_slope": 0.0,
+    "thrust_offset": 1231312,
+    "thrust_slope": 0.0,
+    "esc_current_slope": 0.0,
+    "esc_current_offset": 2.0,
+    "power_current_slope": 0.0,
+    "power_current_offset": 2.0
+}

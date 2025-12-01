@@ -1,0 +1,15 @@
+
+
+
+{
+    "BRIDGE_SERIAL" : 752185,
+    "ANALOG_SERIAL" : 678347,
+    "TORQUE_CHANNEL" : 0,
+    "THRUST_CHANNEL" : 1,
+    "ESC_CHANNEL" : 0,
+    "POWER_CHANNEL" : 1,
+    "BAUD_RATE" : 115200,
+    "ARDUINO1_PORT" : "COM6",
+    "ARDUINO2_PORT" : "COM5",
+    "CELL_CAL_FILE" : "phidget_calibration.json"
+}
